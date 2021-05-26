@@ -1,5 +1,6 @@
 # Predict Future Sales Kaggle
 
+In this repository, I work with data from a Kaggle Competition. In this competition I am working with time-series dataset consisting of daily sales data, trying to predict total sales for every product and store in the next month. I used two different regression models; Random Forest Regression and XGBoost.
 
 ### Data Description:
 <br/>https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
