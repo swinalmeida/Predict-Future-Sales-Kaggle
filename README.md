@@ -13,7 +13,7 @@ You are provided with daily historical sales data. The task is to forecast the t
 <br/>item_categories.csv  - supplemental information about the items categories.
 <br/>shops.csv- supplemental information about the shops.
 <br/>
-Data fields
+<br/>Data fields
 <br/>ID - an Id that represents a (Shop, Item) tuple within the test set
 <br/>shop_id - unique identifier of a shop
 <br/>item_id - unique identifier of a product
